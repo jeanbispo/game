@@ -1,0 +1,8 @@
+{
+  "name": "myGame",
+  "version": "1.0.0",
+  "description": "A game",
+  "main": "index.js",
+  "author": "Jean Bispo",
+  "license": "MIT"
+}
